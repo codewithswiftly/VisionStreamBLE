@@ -1,6 +1,9 @@
 # 🎥 VisionStreamBLE
 
 > ⚡ BLE-powered connection + 📡 hotspot streaming + 🧠 on-device vision
+![Swift](https://img.shields.io/badge/Swift-5.9+-F05138?style=flat&logo=swift)
+![iOS](https://img.shields.io/badge/iOS-15%2B-007AFF?style=flat&logo=apple)
+![License](https://img.shields.io/badge/license-MIT-blue?style=flat)
 
 VisionStreamBLE is a dual-app iOS system that enables **real-time video streaming between devices**, using **Bluetooth Low Energy (BLE)** for signaling and **Wi-Fi hotspot** for high-speed data transfer.  
 It also integrates **on-device machine learning** for object detection and color analysis.
