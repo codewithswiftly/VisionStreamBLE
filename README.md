@@ -1,6 +1,7 @@
 # 🎥 VisionStreamBLE
 
 > ⚡ BLE-powered connection + 📡 hotspot streaming + 🧠 on-device vision
+> 
 ![Swift](https://img.shields.io/badge/Swift-5.9+-F05138?style=flat&logo=swift)
 ![iOS](https://img.shields.io/badge/iOS-15%2B-007AFF?style=flat&logo=apple)
 ![License](https://img.shields.io/badge/license-MIT-blue?style=flat)
